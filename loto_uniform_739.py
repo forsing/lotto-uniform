@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 
-CSV_PATH = "/Users/4c/Desktop/GHQ/data/loto7hh_4594_k28.csv"
+CSV_PATH = "/data/loto7hh_4594_k28.csv"
 
 
 def load_draws(path):
@@ -55,5 +55,5 @@ Teorijska verovatnoca po broju (uniform): 0.025641
 Empirijska min/max verovatnoca: 0.02354 0.028111
 
 Predicted next loto 7/39 combination: 
-[ 3  5 13 16 21 24 31]
+[ 3  x 13 y 21 z 31]
 """
